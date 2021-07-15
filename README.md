@@ -7,8 +7,13 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akainoo)](https://solved.ac/akainoo)
 
-### Interseted In
+### I am..
+- FrontEnd Software Engineer
+- Looking for Jobs now!
+
+### Interseted In 
+<img src="https://img.shields.io/badge/-react--native-brightgreen"/>
+<img src="https://img.shields.io/badge/-typescript-blue"/>
 
 ### Link
-- resume : 
 - email: <akainoo123@gmail.com>
