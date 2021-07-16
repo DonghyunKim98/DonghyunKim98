@@ -8,6 +8,9 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akainoo)](https://solved.ac/akainoo)
 
 ### I am..
+- Hanyang University Information System
+   - 2학년 재학중
+   - **21-2학기 휴학** 예정 
 - FrontEnd Software Engineer
 - Looking for Jobs now!
 
