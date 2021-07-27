@@ -10,7 +10,8 @@
 ### I am..
 - Hanyang University Information System
    - 2학년 재학중
-   - **21-2학기 휴학** 예정 
+   - **21-2학기부터 휴학**
+   - 복학 예정 시기 미정
 - FrontEnd Software Engineer
 - Looking for Jobs now!
 
