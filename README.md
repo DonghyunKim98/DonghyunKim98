@@ -4,6 +4,9 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=DonghyunKim98&show_icons=true&count_private=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghyunKim98&exclude_repo=AlgorithmStudy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akainoo)](https://solved.ac/akainoo)
 
@@ -13,7 +16,7 @@
    - **21-2학기부터 휴학**
    - 복학 예정 시기 미정
 - FrontEnd Software Engineer
-- Looking for Jobs now!
+
 
 ### Interseted In 
 <img src="https://img.shields.io/badge/-react--native-brightgreen"/>
