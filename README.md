@@ -27,3 +27,4 @@
 
 ### Link
 - email: <akainoo123@gmail.com>
+- blog : <https://velog.io/@dongdong98>
