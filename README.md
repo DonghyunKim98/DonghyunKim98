@@ -13,12 +13,10 @@
 ### I am..
 - Hanyang University Information System
    - 2학년 재학중
-   - **21-2학기부터 휴학**
-   - 복학 예정 시기 미정
 - FrontEnd Software Enginee
-- **[실비아헬스](https://silvia.io/)에서 Software Engineer 로 근무중**
+- **[실비아헬스](https://silvia.io/)에서 Software Engineer 로 근무**
   - Mobile Application Developer Using React Native
-  - 2021.08~   
+  - 2021.08~2022.07
 
 
 ### Interseted In 
