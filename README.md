@@ -14,9 +14,7 @@
 - Hanyang University Information System
    - 2학년 재학중
 - FrontEnd Software Enginee
-- **[실비아헬스](https://silvia.io/)에서 Software Engineer 로 근무**
-  - Mobile Application Developer Using React Native
-  - 2021.08~2022.07
+- Project Manager
 
 
 ### Interseted In 
@@ -24,5 +22,6 @@
 <img src="https://img.shields.io/badge/-typescript-blue"/>
 
 ### Link
+- [resume](https://flashy-horse-480.notion.site/e8c9fcf71cc5453a8cc7548b43e7d9aa) 
 - email: <akainoo123@gmail.com>
 - blog : <https://velog.io/@dongdong98>
