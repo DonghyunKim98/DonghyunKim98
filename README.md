@@ -12,7 +12,6 @@
 
 ### I am..
 - Hanyang University Information System
-   - 2학년 재학중
 - FrontEnd Software Enginee
 - Project Manager
 
