@@ -12,7 +12,7 @@
 
 ### I am..
 - Hanyang University Information System
-- FrontEnd Software Enginee
+- FrontEnd Software Engineer
 - Project Manager
 
 
