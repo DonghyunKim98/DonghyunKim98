@@ -17,7 +17,7 @@ IT 의 다양한 측면에서 제품을 만들어가는 것이 중요하다고 �
 - Google Play Store 다운로드 100회 -> 10,000회로 성장   
 
 **아이디어오션 (2023.07~2023.12)**
-- 프론트앤드 및 UI 개발 (CES 혁신상 수상)
+- 프론트엔드 및 UI 개발 (CES 혁신상 수상)
 - https://ideaocean.ai/
 - https://www.metheus.ai/   
 
