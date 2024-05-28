@@ -38,7 +38,7 @@ IT 의 다양한 측면에서 제품을 만들어가는 것이 중요하다고 �
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akainoo)](https://solved.ac/akainoo)
 
 ### 🔗 Link
-- [resume](https://flashy-horse-480.notion.site/e8c9fcf71cc5453a8cc7548b43e7d9aa)
+- [resume](https://github.com/DonghyunKim98/DonghyunKim98/blob/main/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5%20(1%E1%84%8E%E1%85%A1).pdf)
 - [LinedIn](https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EA%B9%80-3a3a24218)
 - [email](akainoo123@gmail.com)
 - [blog](https://velog.io/@dongdong98)
