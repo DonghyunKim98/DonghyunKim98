@@ -14,7 +14,9 @@ IT 의 다양한 측면에서 제품을 만들어가는 것이 중요하다고 �
 
 **실비아헬스 (2021.08~2022.08)**
 - 프론트엔드 개발 및 단기간 PM(Project Manager) 수행
-- Google Play Store 다운로드 100회 -> 10,000회로 성장   
+- Google Play Store 다운로드 100회 -> 10,000회로 성장
+- [PlayStore](https://play.google.com/store/apps/details?id=io.silvia&hl=ko&gl=US)
+- [AppStore](https://apps.apple.com/kr/app/%EC%8B%A4%EB%B9%84%EC%95%84-%EB%91%90%EB%87%8C-%ED%9B%88%EB%A0%A8-%EC%B9%98%EB%A7%A4-%EC%98%88%EB%B0%A9-%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A8/id1604009305)
 
 **아이디어오션 (2023.07~2023.12)**
 - 프론트엔드 및 UI 개발 (CES 혁신상 수상)
@@ -30,6 +32,9 @@ IT 의 다양한 측면에서 제품을 만들어가는 것이 중요하다고 �
 - 한양대학교 정보시스템학과 소프트웨어공학 수업에서 기업 연계 프로젝트
 - LG 전자 가전제품과 생성형 AI 를 이용하여 원예 생활 프로세스 개선
 - LG 전자 3등, SKT One of Top3 수상
+- [Project Repo](https://github.com/BloomMate)
+- [Frontend Github Repo](https://github.com/BloomMate/BloomMate-FE)
+- [ML Github Repo](https://github.com/BloomMate/BloomMate-ML)
 
 ## 채널
 ### 🔖 개발 로그
