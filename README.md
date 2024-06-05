@@ -9,6 +9,14 @@
 IT 의 다양한 측면에서 제품을 만들어가는 것이 중요하다고 간주하고 있으며, 이를 위해 다방면의 시각에서 프로젝트를 수행해보고, 사용자들과 직접 만나보고 있습니다.
 신기술에서 파장되는 비즈니스에 관심이 많으며, 특히 **토큰 증권과 CBDC** 등 블록체인과 연관된 금융 제품에 많은 관심을 가지고 있습니다. 
 
+I started out as a front-end developer and am pursuing my dream of becoming an IT expert. As a front-end developer, I consider the following as important principles.
+
+① Improving user experience and processes
+② Flexible combination of business logic and design in interface design
+③ Record rather than remember
+
+I believe it is important to create products from various aspects of IT, and to this end, I carry out projects from a variety of perspectives and meet users directly. I am very interested in businesses that have implications for new technologies, and I am particularly interested in financial products related to blockchain, such as **token securities and CBDC**.
+
 ## 👣 학력, 경력 및 주요 프로젝트
 **학력 : 한양대학교 정보시스템학과**   
 
