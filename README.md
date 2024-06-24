@@ -11,8 +11,8 @@ IT 의 다양한 측면에서 제품을 만들어가는 것이 중요하다고 �
 
 I started out as a front-end developer and am pursuing my dream of becoming **an IT expert**. As a front-end developer, I consider the following as important principles.
 
-① Improving user experience and processes
-② Flexible combination of business logic and design in interface design
+① Improving user experience and processes   
+② Flexible combination of business logic and design in interface design   
 ③ Record rather than remember
 
 I believe it is important to create products from various aspects of IT, and to this end, I carry out projects from a variety of perspectives and meet users directly. I am very interested in businesses that have implications for new technologies, and I am particularly interested in financial products related to blockchain, such as **token securities and CBDC**.
