@@ -54,7 +54,6 @@ I believe it is important to create products from various aspects of IT, and to 
 ### 🔗 Link
 - [resume](https://github.com/DonghyunKim98/DonghyunKim98/blob/main/%EA%B9%80%EB%8F%99%ED%98%84%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 - [LinedIn](https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EA%B9%80-3a3a24218)
-- [email](akainoo123@gmail.com)
 - [blog](https://velog.io/@dongdong98)
 
 
