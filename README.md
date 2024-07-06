@@ -37,13 +37,17 @@ I believe it is important to create products from various aspects of IT, and to 
 - PoC 제품 제작 : Product Manager, 시스템 설계, UI&UX 디자인, 프론트엔드 개발 (CES 제출)
 - [PoR Poc Frontend Repo](https://github.com/DonghyunKim98/PoR_PoC_mobile_FE)
 
-**Project : BloomMate**
+**Project : BloomMate (2023.09~12)**
 - 한양대학교 정보시스템학과 소프트웨어공학 수업에서 기업 연계 프로젝트
 - LG 전자 가전제품과 생성형 AI 를 이용하여 원예 생활 프로세스 개선
 - LG 전자 3등, SKT One of Top3 수상
 - [Project Repo](https://github.com/BloomMate)
 - [Frontend Repo](https://github.com/BloomMate/BloomMate-FE)
 - [ML Repo](https://github.com/BloomMate/BloomMate-ML)
+
+**React-Native Template Code**
+- 어떤 상황에서도 나만의 스타일로 유연하게 사용 가능한 RN 용 템플릿 코드 작성.
+- [Repo](https://github.com/DonghyunKim98/react-native-template)
 
 ## 채널
 ### 🔖 개발 로그
