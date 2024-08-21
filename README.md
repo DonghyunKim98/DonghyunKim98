@@ -56,9 +56,9 @@ I believe it is important to create products from various aspects of IT, and to 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akainoo)](https://solved.ac/akainoo)
 
 ### 🔗 Link
-- [resume](https://github.com/DonghyunKim98/DonghyunKim98/blob/main/%EA%B9%80%EB%8F%99%ED%98%84%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+- [Resume](https://github.com/DonghyunKim98/DonghyunKim98/blob/main/%EA%B9%80%EB%8F%99%ED%98%84%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 - [LinedIn](https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EA%B9%80-3a3a24218)
-- [blog](https://velog.io/@dongdong98)
+- [Blog](https://velog.io/@dongdong98)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghyunKim98&count_bg=%2379C83D&title_bg=%23555555&icon=telegram.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
