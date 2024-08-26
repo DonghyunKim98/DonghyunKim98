@@ -17,8 +17,7 @@ I started out as a front-end developer and am pursuing my dream of becoming **an
 
 I believe it is important to create products from various aspects of IT, and to this end, I carry out projects from a variety of perspectives and meet users directly. I am very interested in businesses that have implications for new technologies, and I am particularly interested in financial products related to blockchain, such as **token securities and CBDC**.
 
-## 👣 학력, 경력 및 주요 프로젝트
-**학력 : 한양대학교 정보시스템학과**   
+## 👣 경력 및 주요 프로젝트
 
 **실비아헬스 (2021.08~2022.08)**
 - 프론트엔드 개발 및 단기간 PM(Project Manager) 수행
@@ -56,8 +55,6 @@ I believe it is important to create products from various aspects of IT, and to 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akainoo)](https://solved.ac/akainoo)
 
 ### 🔗 Link
-- [Resume](https://github.com/DonghyunKim98/DonghyunKim98/blob/main/%EA%B9%80%EB%8F%99%ED%98%84%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
-- [LinedIn](https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EA%B9%80-3a3a24218)
 - [Blog](https://velog.io/@dongdong98)
 
 
