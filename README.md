@@ -37,7 +37,7 @@ I believe it is important to create products from various aspects of IT, and to 
 - [PoR Poc Frontend Repo](https://github.com/DonghyunKim98/PoR_PoC_mobile_FE)
 
 **Project : BloomMate (2023.09~12)**
-- 한양대학교 정보시스템학과 소프트웨어공학 수업에서 기업 연계 프로젝트
+- 학교 프로젝트에서 진행한 기업 연계 프로젝트
 - LG 전자 가전제품과 생성형 AI 를 이용하여 원예 생활 프로세스 개선
 - LG 전자 3등, SKT One of Top3 수상
 - [Project Repo](https://github.com/BloomMate)
