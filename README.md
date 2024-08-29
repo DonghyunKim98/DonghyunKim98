@@ -17,7 +17,8 @@ I started out as a front-end developer and am pursuing my dream of becoming **an
 
 I believe it is important to create products from various aspects of IT, and to this end, I carry out projects from a variety of perspectives and meet users directly. I am very interested in businesses that have implications for new technologies, and I am particularly interested in financial products related to blockchain, such as **token securities and CBDC**.
 
-## 👣 경력 및 주요 프로젝트
+## 👣 학력, 경력 및 주요 프로젝트
+**학력 : 한양대학교 정보시스템학과**   
 
 **실비아헬스 (2021.08~2022.08)**
 - 프론트엔드 개발 및 단기간 PM(Project Manager) 수행
