@@ -31,7 +31,7 @@ I believe it is important to create products from various aspects of IT, and to 
 - https://ideaocean.ai/
 - https://www.metheus.ai/   
 
-**hyusnp + 지크립토 (2023.03~)**
+**hyusnp + 지크립토 (2023.03~2024.09)**
 - 당사의 IT 솔루션(영지식 증명)을 금융 영역에서 제품화하는 전과정 참여
 - RFP 대응 제안서 작성 / PRD 작성 / 실증특례 신청서 작성
 - PoC 제품 제작 : Product Manager, 시스템 설계, UI&UX 디자인, 프론트엔드 개발 (CES 제출)
