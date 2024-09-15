@@ -17,7 +17,7 @@ I started out as a front-end developer and am pursuing my dream of becoming **an
 
 I believe it is important to create products from various aspects of IT, and to this end, I carry out projects from a variety of perspectives and meet users directly. I am very interested in businesses that have implications for new technologies, and I am particularly interested in financial products related to blockchain, such as **token securities and CBDC**.
 
-## 👣 학력, 경력 및 주요 프로젝트
+## 👣 학력, 경력, 주요 프로젝트, 오픈소스 기여
 **학력 : 한양대학교 정보시스템학과**   
 
 **실비아헬스 (2021.08~2022.08)**
@@ -48,6 +48,9 @@ I believe it is important to create products from various aspects of IT, and to 
 **React-Native Template Code**
 - 어떤 상황에서도 나만의 스타일로 유연하게 사용 가능한 RN 용 템플릿 코드 작성.
 - [Repo](https://github.com/DonghyunKim98/react-native-template)
+
+**Open Source Contributing**
+- [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3ADonghyunKim98) : 6.2K⭐️ 
 
 ## 채널
 ### 🔖 개발 로그
