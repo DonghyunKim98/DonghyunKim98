@@ -18,7 +18,22 @@ I started out as a front-end developer and am pursuing my dream of becoming **an
 I believe it is important to create products from various aspects of IT, and to this end, I carry out projects from a variety of perspectives and meet users directly. I am very interested in businesses that have implications for new technologies, and I am particularly interested in financial products related to blockchain, such as **token securities and CBDC**.
 
 ## 👣 학력, 경력, 주요 프로젝트, 오픈소스 기여
-**학력 : 한양대학교 정보시스템학과**   
+**학력 : 한양대학교 정보시스템학과**  
+
+**Viva Republica / Toss (2024.09~)** 
+- [토스 채용 페이지](toss.im/career) 담당
+- 신규 요구사항, 레거시 코드 리팩토링, 새로운 채용 툴로의 마이그레이션등
+
+**hyusnp + 지크립토 (2023.03~2024.09)**
+- 당사의 IT 솔루션(영지식 증명)을 금융 영역에서 제품화하는 전과정 참여
+- RFP 대응 제안서 작성 / PRD 작성 / 실증특례 신청서 작성
+- PoC 제품 제작 : Product Manager, 시스템 설계, UI&UX 디자인, 프론트엔드 개발 (CES 제출)
+- [PoR Poc Frontend Repo](https://github.com/DonghyunKim98/PoR_PoC_mobile_FE)
+
+**아이디어오션 (2023.07~2023.12)**
+- 프론트엔드 및 UI 개발 (CES 혁신상 수상)
+- https://ideaocean.ai/
+- https://www.metheus.ai/  
 
 **실비아헬스 (2021.08~2022.08)**
 - 프론트엔드 개발 및 단기간 PM(Project Manager) 수행
@@ -26,16 +41,6 @@ I believe it is important to create products from various aspects of IT, and to 
 - [PlayStore](https://play.google.com/store/apps/details?id=io.silvia&hl=ko&gl=US)
 - [AppStore](https://apps.apple.com/kr/app/%EC%8B%A4%EB%B9%84%EC%95%84-%EB%91%90%EB%87%8C-%ED%9B%88%EB%A0%A8-%EC%B9%98%EB%A7%A4-%EC%98%88%EB%B0%A9-%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A8/id1604009305)
 
-**아이디어오션 (2023.07~2023.12)**
-- 프론트엔드 및 UI 개발 (CES 혁신상 수상)
-- https://ideaocean.ai/
-- https://www.metheus.ai/   
-
-**hyusnp + 지크립토 (2023.03~2024.09)**
-- 당사의 IT 솔루션(영지식 증명)을 금융 영역에서 제품화하는 전과정 참여
-- RFP 대응 제안서 작성 / PRD 작성 / 실증특례 신청서 작성
-- PoC 제품 제작 : Product Manager, 시스템 설계, UI&UX 디자인, 프론트엔드 개발 (CES 제출)
-- [PoR Poc Frontend Repo](https://github.com/DonghyunKim98/PoR_PoC_mobile_FE)
 
 **Project : BloomMate (2023.09~12)**
 - 학교 프로젝트에서 진행한 기업 연계 프로젝트
