@@ -21,7 +21,7 @@ I believe it is important to create products from various aspects of IT, and to 
 **학력 : 한양대학교 정보시스템학과**  
 
 **Viva Republica / Toss (2024.09~)** 
-- [토스 채용 페이지](toss.im/career) 담당
+- [토스 채용 페이지](https://toss.im/career) 담당
 - 신규 요구사항, 레거시 코드 리팩토링, 새로운 채용 툴로의 마이그레이션등
 
 **hyusnp + 지크립토 (2023.03~2024.09)**
