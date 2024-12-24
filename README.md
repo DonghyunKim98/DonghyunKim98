@@ -20,7 +20,12 @@ I believe it is important to create products from various aspects of IT, and to 
 ## 👣 학력, 경력, 주요 프로젝트, 오픈소스 기여
 **학력 : 한양대학교 정보시스템학과**  
 
-**Viva Republica / Toss (2024.09~)** 
+**Viva Republica / Toss (2025.01~)** 
+- Frontend Developer
+- 내부 재무회계 제품 담당
+
+**Viva Republica / Toss (2024.09~2024.12)** 
+- Frontend Developer Assistant
 - [토스 채용 페이지](https://toss.im/career) 담당
 - 신규 요구사항, 레거시 코드 리팩토링, 새로운 채용 툴로의 마이그레이션등
 
