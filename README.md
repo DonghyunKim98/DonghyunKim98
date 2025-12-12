@@ -20,14 +20,10 @@ I believe it is important to create products from various aspects of IT, and to 
 ## 👣 학력, 경력, 주요 프로젝트, 오픈소스 기여
 **학력 : 한양대학교 정보시스템학과**  
 
-**Viva Republica / Toss (2025.01~2025.08)** 
+**Viva Republica / Toss (2025.09~2025.08)** 
 - Frontend Developer
-- 내부 재무회계 제품 담당
-
-**Viva Republica / Toss (2024.09~2024.12)** 
-- Frontend Developer Assistant
 - [토스 채용 페이지](https://toss.im/career) 담당
-- 신규 요구사항, 레거시 코드 리팩토링, 새로운 채용 툴로의 마이그레이션등
+- 내부 재무회계 제품 담당
 
 **hyusnp + 지크립토 (2023.03~2024.09)**
 - 당사의 IT 솔루션(영지식 증명)을 금융 영역에서 제품화하는 전과정 참여
@@ -55,20 +51,13 @@ I believe it is important to create products from various aspects of IT, and to 
 - [Frontend Repo](https://github.com/BloomMate/BloomMate-FE)
 - [ML Repo](https://github.com/BloomMate/BloomMate-ML)
 
-**React-Native Template Code**
-- 어떤 상황에서도 나만의 스타일로 유연하게 사용 가능한 RN 용 템플릿 코드 작성.
-- [Repo](https://github.com/DonghyunKim98/react-native-template)
-
 **Open Source Contributing**
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3ADonghyunKim98) : 6.2K⭐️ 
 
 ## 채널
 ### 🔖 개발 로그
-![github stats](https://github-readme-stats.vercel.app/api?username=DonghyunKim98&show_icons=true&count_private=true&theme=tokyonight)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akainoo)](https://solved.ac/akainoo)
 
 ### 🔗 Link
 - [Blog](https://velog.io/@dongdong98)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghyunKim98&exclude_repo=AlgorithmStudy)](https://github.com/anuraghazra/github-rxeadme-stats) -->
