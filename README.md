@@ -20,6 +20,11 @@ I believe it is important to create products from various aspects of IT, and to 
 ## 👣 학력, 경력, 주요 프로젝트, 오픈소스 기여
 **학력 : 한양대학교 정보시스템학과**  
 
+**Meritz Securities (2026.01~)**
+- FullStack Developer
+- 전사 AX 프로젝트 PoC 진행
+- 금융상품 (랩계좌, 파생상품, RP 등) 담당 
+
 **Viva Republica / Toss (2025.09~2025.08)** 
 - Frontend Developer
 - [토스 채용 페이지](https://toss.im/career) 담당
