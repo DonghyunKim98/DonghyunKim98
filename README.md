@@ -23,6 +23,7 @@ I believe it is important to create products from various aspects of IT, and to 
 **Meritz Securities (2026.01~)**
 - FullStack Developer
 - 전사 AX 프로젝트 PoC 진행
+      - 신탁 프로그램 Web Migration 진행중 (2026.02~)       
 - 금융상품 (랩계좌, 파생상품, RP 등) 담당 
 
 **Viva Republica / Toss (2025.09~2025.08)** 
