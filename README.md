@@ -24,7 +24,8 @@ I believe it is important to create products from various aspects of IT, and to 
 - FullStack Developer
 - 전사 AX 프로젝트 PoC 진행
       - 신탁 프로그램 Web Migration 진행중 (2026.02~)       
-- 금융상품 (랩계좌, 파생상품, RP 등) 담당 
+- 금융상품/랩어카운트 제품 담당
+- 기타 다양한 사내 제품 Web Migration 진행중
 
 **Viva Republica / Toss (2024.09~2025.08)** 
 - Frontend Developer
